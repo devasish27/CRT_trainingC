@@ -10,3 +10,20 @@ int main() {
   }
     return 0;
 }
+
+
+
+// another example
+
+#include <stdio.h>
+
+void main(){
+	int x;
+	//x= printf("kalki is amazing");
+	int a=0;
+	
+	for(;a;)
+		a++;
+		printf("%d",a);
+	
+}                      //output: 0
