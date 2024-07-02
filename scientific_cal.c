@@ -99,6 +99,14 @@ void squareRoot() {
     }
 }
 
+//cuberoot funtion
+/* void cuberoot(){
+	double num;
+    printf("Enter a number: ");
+    scanf("%lf", &num);
+    printf("Result: %.2f\n", cbrt(num));
+} */
+
 void trigonometric() {
     int ch;
     double angle, result;
